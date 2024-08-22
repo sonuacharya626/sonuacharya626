@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on improving my skills.<br>🤝 I’m looking for job.<br>🌱 I’m currently learning C# .Net<br>💬 Ask me about anything.<br> 💻 I Graduated with bachelor degree in :<br>⚡ Computer Science and Information Technology (CSIT-2024)
+[![my pic(https://scontent.fbhr4-1.fna.fbcdn.net/v/t39.30808-1/344456043_152220307609252_1639550204948793329_n.jpg?stp=dst-jpg_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=NajnBNzhXLAQ7kNvgEYImhn&_nc_ht=scontent.fbhr4-1.fna&oh=00_AYAU0btU5b5jpUOz7wbufZV8_PnVcFG8wBjr6SGbqWEfKg&oe=66CCB6BF)]]
 
 
 ## 🌐 Socials:
